@@ -1,6 +1,11 @@
 {
-  "files": {
-    "1.0.0": {
+  "1.0.0": {
+    "author": "sigmasoldier",
+    "description": "A simple example",
+    "dependencies": {
+      "greeter": "1"
+    },
+    "files": {
       "1.0.0.lua": "hello.lua"
     }
   }
