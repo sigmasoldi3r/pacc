@@ -2,6 +2,12 @@
 
 Package manager for CC: Tweaked and monorepo for official packages.
 
+## Installing
+
+Installation is dead simple, just run: `wget https://raw.githubusercontent.com/sigmasoldi3r/pacc/main/pacc/pacc.lua pacc.lua`
+
+And you're good to go.
+
 ## Contributing
 
 You can help expanding the package ecosystem!
