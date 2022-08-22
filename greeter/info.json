@@ -1,0 +1,5 @@
+{
+  "author": "sigmasoldier",
+  "description": "A simple example of a library",
+  "files": [ "greeter.lua" ]
+}
