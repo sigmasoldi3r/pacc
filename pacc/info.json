@@ -1,0 +1,6 @@
+{
+  "author": "simasoldier",
+  "description": "A simple package manager to download packages!",
+  "support": "https://github.com/sigmasoldi3r/pacc/issues",
+  "files": [ "pacc.lua" ]
+}
