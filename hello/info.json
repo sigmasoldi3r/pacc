@@ -1,0 +1,6 @@
+{
+  "author": "sigmasoldier",
+  "description": "A simple example with dependencies",
+  "dependencies": [ "greeter" ],
+  "files": [ "hello.lua" ]
+}
