@@ -1,0 +1,6 @@
+{
+  "author": "CrazedProgrammer",
+  "site": "https://github.com/CrazedProgrammer/Surface2/wiki",
+  "description": "A powerful graphics API made for lua-based environments",
+  "files": [ "surface-2-lib.lua" ]
+}
