@@ -1,0 +1,6 @@
+{
+  "author": "sigmasoldier",
+  "description": "Simple tests for flywheel DBMS, also serve as example.",
+  "files": [ "flywheel-tests.lua" ],
+  "dependencies": [ "flywheel" ]
+}
