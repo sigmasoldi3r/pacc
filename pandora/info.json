@@ -1,0 +1,9 @@
+{
+  "author": "sigmasoldier",
+  "page": "https://github.com/sigmasoldi3r/pandora",
+  "issues": "https://github.com/sigmasoldi3r/pandora/issues",
+  "changelog": "https://github.com/sigmasoldi3r/pandora/blob/master/README.md",
+  "releases": "https://github.com/sigmasoldi3r/pandora/releases",
+  "files": [ "pandora.lua" ],
+  "description": "Pandora is a small pure-lua object oriented library, which enhaces your lua modules with classes, in an actual class style!"
+}
