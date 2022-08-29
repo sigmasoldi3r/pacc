@@ -1,0 +1,5 @@
+{
+  "author": "sigmasoldier",
+  "description": "A simple DBMS engine, based on files. Inspired by SQLite aims to have a small codebase, and used for small amount of data entries.",
+  "files": [ "flywheel.lua" ]
+}
